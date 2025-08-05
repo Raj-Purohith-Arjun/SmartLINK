@@ -1,11 +1,11 @@
 
-
-````markdown
 # SmartLINK - AI-Powered Recommendation Engine
+
 
 This is an AI-based recommendation engine that matches people based on shared institutions (e.g., schools, companies), activities, and social graphs using **Qdrant** for semantic search and **Neo4j** for graph database management.
 
-## 🚀 Project Setup
+
+## Project Setup
 
 Follow these instructions to set up and run the project locally.
 
@@ -14,6 +14,10 @@ Follow these instructions to set up and run the project locally.
 - **Docker** (for running Qdrant and Neo4j containers)
 - **Python 3.11+** (preferably inside a virtual environment)
 - **pip** (for installing Python packages)
+
+
+````markdown
+
 
 ### Step 1: Clone the Repository
 
