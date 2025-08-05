@@ -15,13 +15,11 @@ Follow these instructions to set up and run the project locally.
 - **Python 3.11+** (preferably inside a virtual environment)
 - **pip** (for installing Python packages)
 
-
-````markdown
-
-
 ### Step 1: Clone the Repository
 
 Clone the repository to your local machine.
+
+````markdown
 
 ```bash
 git clone https://github.com/your-username/SmartLINK.git
