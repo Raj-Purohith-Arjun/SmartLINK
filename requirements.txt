@@ -1,0 +1,29 @@
+# Core Python packages
+pandas
+duckdb
+pyarrow
+
+# NLP
+spacy
+sentence-transformers
+
+# PDF parsing
+PyMuPDF
+
+# Vector DB
+qdrant-client
+
+# Graph DB
+neo4j
+
+# Streamlit UI
+streamlit
+
+# LangChain
+langchain
+
+# OpenAI (optional, used when enabled)
+openai
+
+# Env variables loader
+python-dotenv

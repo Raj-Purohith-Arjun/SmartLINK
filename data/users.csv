@@ -1,0 +1,16 @@
+﻿user_id,name,email,school,company,role,location
+u001,Raj Purohith,raj@example.com,TAMU,OpenAI,Data Scientist,College Station
+u002,Alice Smith,alice@example.com,MIT,Google,Software Engineer,Boston
+u003,Bob Lee,bob@example.com,Stanford,Meta,Product Manager,San Francisco
+u004,Emily Davis,emily@example.com,Harvard,Amazon,Data Analyst,Seattle
+u005,Michael Brown,michael@example.com,Caltech,Microsoft,Software Engineer,Redmond
+u006,Sarah Johnson,sarah@example.com,Yale,Facebook,Product Designer,Menlo Park
+u007,David Wilson,david@example.com,Princeton,Netflix,Data Scientist,Los Gatos
+u008,Laura Martinez,laura@example.com,Oxford,Apple,Software Engineer,Cupertino
+u009,James Taylor,james@example.com,Cambridge,Airbnb,Marketing Manager,San Francisco
+u010,Jessica Moore,jessica@example.com,UCLA,Salesforce,Data Engineer,San Francisco
+u011,Daniel Anderson,daniel@example.com,Columbia,Twitter,Machine Learning Engineer,San Francisco
+u012,Amanda Thomas,amanda@example.com,University of Toronto,LinkedIn,Product Manager,Sunnyvale
+u013,Mark Jackson,mark@example.com,University of Edinburgh,Uber,Software Engineer,San Francisco
+u014,Natalie White,natalie@example.com,University of Michigan,Spotify,Data Scientist,New York
+u015,Steven Harris,steven@example.com,University of California Berkeley,Dropbox,Backend Engineer,San Francisco
