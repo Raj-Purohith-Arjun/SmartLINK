@@ -170,7 +170,7 @@ python recommenders/semantic_search.py
 
 ---
 
-### 🐳 Docker Compose (Optional)
+### 🐳 Docker Compose (Preferred)
 
 For easier management, you can use Docker Compose by creating a `docker-compose.yml` file.
 
